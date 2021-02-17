@@ -1,1 +1,5 @@
-discord.py==0.16.12
+discord.py==20.2.3
+datetime.py==20.2.3
+asyncio.py==20.2.3
+selenium.py==20.2.3
+configparser==20.2.3
